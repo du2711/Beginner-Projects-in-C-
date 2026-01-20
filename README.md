@@ -18,3 +18,6 @@ File input/output for basic persistence
 These projects are ideal for students preparing for academic assignments, hobbyists exploring programming for the first time, or anyone seeking to strengthen their grasp of C fundamentals. By practicing with these examples, learners will be better prepared to tackle intermediate and advanced projects, such as data structures, algorithms, and system‑level programming.
 
 Ultimately, this repository serves as a stepping stone toward deeper mastery of C, encouraging learners to experiment, refine, and extend the provided code. It is not just a set of programs, but a foundation for building confidence and competence in programming.
+
+
+Author - Deepanshu Upadhyay
